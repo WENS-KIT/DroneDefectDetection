@@ -29,3 +29,7 @@ on a Windows PC. Through comparative evaluation with mel-spectrogram, widely use
 the classification accuracy and operation time are measured to prove the superiority of the performance of the
 proposed scheme. The accuracy of the proposed scheme is 97.5%, which is confirmed to be very accurate, and
 the future research direction is discusse
+
+
+
+김은섭, and 신수용. "Recurrence Plot 과 딥러닝을 이용한 음향 기반 드론 고장 감지." 한국통신학회논문지 48.1 (2023): 114-122.
